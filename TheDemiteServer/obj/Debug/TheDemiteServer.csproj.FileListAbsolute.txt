@@ -1,0 +1,40 @@
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe.config
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.pdb
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.dll
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.dll
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.xml
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.xml
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.csprojResolveAssemblyReference.cache
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.exe
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.pdb
+F:\Project 5 - Hololens\TheDemiteServer\TheDemiteServer\bin\Debug\MySql.Data.dll
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe.config
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.exe
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.pdb
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.pdb
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\MySql.Data.dll
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.dll
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.dll
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.xml
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.xml
+F:\Project 7 - Thesis\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.csprojResolveAssemblyReference.cache
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe.config
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.exe
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\TheDemiteServer.pdb
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.dll
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.dll
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\Newtonsoft.Json.xml
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\bin\Debug\RabbitMQ.Client.xml
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.csprojResolveAssemblyReference.cache
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.csproj.CoreCompileInputs.cache
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.csproj.CopyComplete
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.exe
+E:\Project 7 - Thesis\Project Master\TheDemiteServer\TheDemiteServer\obj\Debug\TheDemiteServer.pdb
